@@ -5,8 +5,10 @@
 * Emanuele Travanti
 * José Díaz
 * Carlos Tezna
-* Felipe Rúa
+* Felipe Carrasquilla
 
-## Contentes
+## Contents
 
-This repository will hold the code from ST1800 and the notebooks used to create an offline ETL process and PySpark recommendation system.
+This repository will hold the code from ST1800 and the notebooks used to create an offline ETL process and PySpark recommendation system
+
+Trabajo 1. Datalake con ETL
